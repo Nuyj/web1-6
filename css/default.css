@@ -1,8 +1,8 @@
 
- @chaset"UFT-8"
+ @charset"UFT-8"
  
  body{
-  background-color: #add8e6；
+  background-color: #add8e6;
  }
  
   #main{
@@ -10,7 +10,7 @@
     margin: 90px  auto;
     padding:  40px 80px;
     border: green 1px solid;
-    backbround-color: white;
+    background-color: white;
   }
   
     .photo{
@@ -37,10 +37,10 @@
       
       .btn{
         -webkit-appearance: none;
-        margin: 5px   /*見やすく隙間を開けた*/
+        margin: 5px;   /*見やすく隙間を開けた*/
         width:  100px;  /*幅*/
-        height: 40px  /*高さ*/
-        padding:  10px  /*境界内の余白の大きさ*/
+        height: 40px;  /*高さ*/
+        padding: 10px;  /*境界内の余白の大きさ*/
         border: none;   /*境界線の指定*/
         font-size:20px; /*フォントサイズ*/
         }
@@ -95,7 +95,7 @@
    
    thead  td{
     color:  white;
-    backgound-color:  paleturquoise;
+    background-color:  paleturquoise;
     text-align:center;
    }
    
